@@ -60,13 +60,6 @@ Dashboard administrativo moderno desenvolvido com React 19, TypeScript, Zustand,
 
 Aplicação full stack para gestão financeira pessoal, construída com Next.js, FastAPI e PostgreSQL.
 
-## Estatísticas do GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KamillyFer-8&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Kamilly" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamillyFer-8&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas por Kamilly" />
-</div>
-
 ## Vamos conversar?
 
 Estou sempre disponível para trocar ideias sobre tecnologia, projetos e oportunidades.
