@@ -52,6 +52,12 @@ Gosto de transformar problemas reais em soluções funcionais, com atenção à 
 
 Também trabalho com **Playwright, JUnit, Vitest, React Testing Library, Zustand, Axios e Recharts**.
 
+## Atividade no GitHub
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/8B5CF6/KamillyFer-8" alt="Calendário de contribuições de Kamilly no GitHub" />
+</p>
+
 ## Projetos em destaque
 
 ### [KidoColors](https://github.com/KamillyFer-8/KidoColors)
