@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Kamilly Araújo! 👋</h1>
+<h1 align="center">Olá, eu sou a Kamilly Araújo! </h1>
 
 <p align="center">
   <img src="./pixel-bunny.gif" width="280" alt="Coelho em pixel art programando" />
