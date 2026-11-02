@@ -68,6 +68,12 @@ Aplicativo desktop para distribuir estudantes entre turmas, respeitando turnos e
 
 `Python` `PySide6` `OR-Tools CP-SAT` `pandas` `openpyxl` `unittest`
 
+### [KidoColors](https://github.com/KamillyFer-8/KidoColors)
+
+Aplicação full stack para análise experimental de acessibilidade visual em páginas web. Realiza avaliações de contraste, simulações de visão de cores, histórico e comparação de relatórios.
+
+`React` `TypeScript` `Java 21` `Spring Boot` `Playwright` `PostgreSQL`
+
 ### [Datavoxen](https://github.com/KamillyFer-8/datavoxen)
 
 Plataforma full stack de Business Intelligence e simulação financeira para estudar estratégias de monetização de jogos gratuitos. Reúne dashboards, comparação de cenários, análise de coortes, fluxo de caixa e exportações CSV/PDF, com API e base SQLite somente leitura. O estudo usa um estúdio e um jogo fictícios, com premissas sintéticas e resultados reproduzíveis.
@@ -75,12 +81,6 @@ Plataforma full stack de Business Intelligence e simulação financeira para est
 `React` `TypeScript` `Python` `FastAPI` `SQLite` `Recharts` `Pytest` `Vitest` `Playwright`
 
 🌐 [Acessar o Datavoxen](https://datavoxen.vercel.app) · 📂 [Ver o código](https://github.com/KamillyFer-8/datavoxen)
-
-### [KidoColors](https://github.com/KamillyFer-8/KidoColors)
-
-Aplicação full stack para análise experimental de acessibilidade visual em páginas web. Realiza avaliações de contraste, simulações de visão de cores, histórico e comparação de relatórios.
-
-`React` `TypeScript` `Java 21` `Spring Boot` `Playwright` `PostgreSQL`
 
 ### [Finora](https://github.com/KamillyFer-8/finora)
 
@@ -94,18 +94,6 @@ Simulador de estratégias de organização de entregas. Compara algoritmos usand
 
 `Java 21` `Maven` `JUnit 5` `Strategy Pattern`
 
-### [DevRoad](https://github.com/KamillyFer-8/DevRoad)
-
-Plataforma de aprendizagem em tecnologia criada para apoiar pessoas em sua jornada de estudos.
-
-`TypeScript` `React`
-
-### [ARTHEMS Dashboard](https://github.com/KamillyFer-8/arthems-dashboard)
-
-Dashboard administrativo moderno com gerenciamento de estado, visualização de dados e testes automatizados.
-
-`React 19` `TypeScript` `Zustand` `Material UI` `Axios` `Recharts`
-
 ## Vamos conversar?
 
 Estou aberta a oportunidades como desenvolvedora Full Stack Júnior, colaborações e novos desafios.
@@ -117,4 +105,5 @@ Estou aberta a oportunidades como desenvolvedora Full Stack Júnior, colaboraç�
 <p align="center">
   Obrigada pela visita! ✨
 </p>
+
 
