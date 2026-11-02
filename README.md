@@ -60,6 +60,22 @@ Também trabalho com **Playwright, JUnit, Vitest, React Testing Library, Zustand
 
 ## Projetos em destaque
 
+### 🥈 [Sistema de Ensalamento | ABC Aprendiz](https://github.com/KamillyFer-8/abc-aprendiz-ensalamento)
+
+**2º lugar no Hackathon UniSoma 2026 · Equipe 12 / Grupo 22**
+
+Aplicativo desktop para distribuir estudantes entre turmas, respeitando turnos e capacidade de vagas. Combina validação de planilhas Excel, otimização matemática, consulta de inconsistências e exportação dos resultados. Desenvolvido em equipe com **Debora Princepe** e **Felipe Machado da Silva**, com melhorias posteriores de validação e apresentação.
+
+`Python` `PySide6` `OR-Tools CP-SAT` `pandas` `openpyxl` `unittest`
+
+### [Datavoxen](https://github.com/KamillyFer-8/datavoxen)
+
+Plataforma full stack de Business Intelligence e simulação financeira para estudar estratégias de monetização de jogos gratuitos. Reúne dashboards, comparação de cenários, análise de coortes, fluxo de caixa e exportações CSV/PDF, com API e base SQLite somente leitura. O estudo usa um estúdio e um jogo fictícios, com premissas sintéticas e resultados reproduzíveis.
+
+`React` `TypeScript` `Python` `FastAPI` `SQLite` `Recharts` `Pytest` `Vitest` `Playwright`
+
+🌐 [Acessar o Datavoxen](https://datavoxen.vercel.app) · 📂 [Ver o código](https://github.com/KamillyFer-8/datavoxen)
+
 ### [KidoColors](https://github.com/KamillyFer-8/KidoColors)
 
 Aplicação full stack para análise experimental de acessibilidade visual em páginas web. Realiza avaliações de contraste, simulações de visão de cores, histórico e comparação de relatórios.
@@ -101,3 +117,4 @@ Estou aberta a oportunidades como desenvolvedora Full Stack Júnior, colaboraç�
 <p align="center">
   Obrigada pela visita! ✨
 </p>
+
